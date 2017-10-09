@@ -1,3 +1,3 @@
 # fikra
 
-Dummiest key value store system ever created. Want to play practically with some concepts on distributed kevy value stores.
+Collection of implementations for competitions and courses mainly in Python.
